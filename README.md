@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+An easy-going person who enjoys being a software engineer, leadership, business, and event or campaign organizer. A Software Engineer specializing in the ability to work both individually and as part of a team. Experienced in working with C, C++, Phyton, SQL, and Javascript specializing in React.js and Express.js. Committed to continuous learning about technology and self-development. If you like challenges, let's collaborate!
+
+🌱 I’m currently learning in GoTo Impact Foundation Generasi Gigih 3.0 Full Stack Engineer Track
+
+
+
 <!--
 **zidaneibrahimf7/zidaneibrahimf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
